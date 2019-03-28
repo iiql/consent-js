@@ -6,7 +6,8 @@
   },
   "env": {
     "amd": true,
-    "es6": true
+    "es6": true,
+    "node": true
   },
   "globals": {
     "console": false,
